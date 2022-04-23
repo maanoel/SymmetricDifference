@@ -92,5 +92,32 @@ namespace TestProject
 
       Assert.True(difference.Count() == 5);
     }
+
+    [Fact]
+    public void Should_Return_12456789()
+    {
+      SymmetricDifferenceCalculator calculator = new SymmetricDifferenceCalculator();
+
+      int[] valueOne = new int[] { 3, 3, 3, 2, 5 };
+      int[] valueTwo = new int[] { 2, 1, 5, 7 };
+      int[] valueThree = new int[] { 3, 4, 6, 6 };
+      int[] valueFour = new int[] { 1, 2, 3 };
+      int[] valueFive = new int[] { 5, 3, 9, 8 };
+      int[] valueSix = new int[] { 1 };
+
+      List<int[]> listOfSet = new List<int[]>();
+      listOfSet.Add(valueOne);
+      listOfSet.Add(valueTwo);
+      listOfSet.Add(valueThree);
+      listOfSet.Add(valueFour);
+      listOfSet.Add(valueFive);
+      listOfSet.Add(valueSix);
+
+      int[] testedValue = new int[] { 1, 2, 4, 5, 6, 7, 8, 9 };
+
+      var difference = calculator.Sym(listOfSet);
+
+      Assert.True(difference.SequenceEqual(testedValue));
+    }
   }
 }
