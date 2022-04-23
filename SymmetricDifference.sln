@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricDifference", "SymmetricDifference\SymmetricDifference.csproj", "{47059D6F-6E9F-4848-9026-425B3CF560DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{A5F35E4F-FC99-4DD9-9176-0CCFE31245E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47059D6F-6E9F-4848-9026-425B3CF560DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47059D6F-6E9F-4848-9026-425B3CF560DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47059D6F-6E9F-4848-9026-425B3CF560DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47059D6F-6E9F-4848-9026-425B3CF560DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F35E4F-FC99-4DD9-9176-0CCFE31245E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F35E4F-FC99-4DD9-9176-0CCFE31245E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F35E4F-FC99-4DD9-9176-0CCFE31245E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F35E4F-FC99-4DD9-9176-0CCFE31245E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713FDB57-A603-4FF8-9BCE-F10B0EC9F30F}
+	EndGlobalSection
+EndGlobal

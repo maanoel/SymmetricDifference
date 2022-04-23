@@ -1,0 +1,16 @@
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.exe
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.deps.json
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.runtimeconfig.json
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.runtimeconfig.dev.json
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.dll
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\ref\SymmetricDifference.dll
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\bin\Debug\net5.0\SymmetricDifference.pdb
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.csproj.AssemblyReference.cache
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.AssemblyInfoInputs.cache
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.AssemblyInfo.cs
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.csproj.CoreCompileInputs.cache
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.dll
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\ref\SymmetricDifference.dll
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.pdb
+C:\Users\manoel.vitor\Desktop\teste\SymetricDifference\SymmetricDifference\SymmetricDifference\obj\Debug\net5.0\SymmetricDifference.genruntimeconfig.cache
