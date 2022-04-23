@@ -71,5 +71,26 @@ namespace TestProject
 
       Assert.True(testedValue.SequenceEqual(difference));
     }
+
+    [Fact]
+    public void Should_Contain_Only_Five_Elements()
+    {
+      SymmetricDifferenceCalculator calculator = new SymmetricDifferenceCalculator();
+
+      int[] valueOne = new int[] { 3, 3, 3, 2, 5 };
+      int[] valueTwo = new int[] { 2, 1, 5, 7 };
+      int[] valueThree = new int[] { 3, 4, 6, 6 };
+      int[] valueFour = new int[] { 1, 2, 3 };
+
+      List<int[]> listOfSet = new List<int[]>();
+      listOfSet.Add(valueOne);
+      listOfSet.Add(valueTwo);
+      listOfSet.Add(valueThree);
+      listOfSet.Add(valueFour);
+
+      var difference = calculator.Sym(listOfSet);
+
+      Assert.True(difference.Count() == 5);
+    }
   }
 }
